@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @mrdrews-hub
-- 👀 I’m interested in WEB Programming
-- 🌱 I’m currently learning VueJS 3 & NODEJS
+- 👋 Hi, I’m Andre Saputra
+- 🌱 I’m a Front End Web Developer
+[![Current Tech Stack](https://github-readme-tech-stack.vercel.app/api/cards?lineCount=1&theme=discord&line1=Vue.js,Vue,0cbb20;tailwindcss,Tailwind,2db6c8;nuxtdotjs,Nuxt,0cbb2f;nodedotjs,nodedotjs,0c9215;)](https://github-readme-tech-stack.vercel.app/api/cards?lineCount=1&theme=discord&line1=Vue.js,Vue,0cbb20;tailwindcss,Tailwind,2db6c8;nuxtdotjs,Nuxt,0cbb2f;nodedotjs,nodedotjs,0c9215;)
 - 📫 How to reach me
 [My Linkedin](https://www.linkedin.com/in/andre-s-589aa3141/ "Linkedin")
 
