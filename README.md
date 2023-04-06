@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Andre Saputra
 - 🌱 I’m a Front End Web Developer
-[![Current Tech Stack](https://github-readme-tech-stack.vercel.app/api/cards?lineCount=1&theme=discord&line1=Vue.js,Vue,0cbb20;tailwindcss,Tailwind,2db6c8;nuxtdotjs,Nuxt,0cbb2f;nodedotjs,nodedotjs,0c9215;)](https://github-readme-tech-stack.vercel.app/api/cards?lineCount=1&theme=discord&line1=Vue.js,Vue,0cbb20;tailwindcss,Tailwind,2db6c8;nuxtdotjs,Nuxt,0cbb2f;nodedotjs,nodedotjs,0c9215;)
+[![My Tech Stack](https://github-readme-tech-stack.vercel.app/api/cards?title=Current%20Tech%20Stack&borderRadius=8&showBorder=false&lineCount=1&theme=github_dark&hideBg=true&line1=Vue.js,Vue,0cbb20;tailwindcss,Tailwind,2db6c8;nuxtdotjs,Nuxt,0cbb2f;nodedotjs,NODE%20JS,10701b;)](https://github-readme-tech-stack.vercel.app/api/cards?title=Current%20Tech%20Stack&borderRadius=8&showBorder=false&lineCount=1&theme=github_dark&hideBg=true&line1=Vue.js,Vue,0cbb20;tailwindcss,Tailwind,2db6c8;nuxtdotjs,Nuxt,0cbb2f;nodedotjs,NODE%20JS,10701b;)
 - 📫 How to reach me
 [My Linkedin](https://www.linkedin.com/in/andre-s-589aa3141/ "Linkedin")
 
