@@ -5,6 +5,9 @@
 
 [![My Tech Stack](https://github-readme-tech-stack.vercel.app/api/cards?align=left&title=Current%20Tech%20Stack&borderRadius=8&showBorder=false&lineCount=1&theme=github_dark&hideBg=true&line1=Vue.js,Vue,0cbb20;tailwindcss,Tailwind,2db6c8;nuxtdotjs,Nuxt,0cbb2f;nodedotjs,NODE%20JS,10701b;)](https://github-readme-tech-stack.vercel.app/api/cards?align=left&title=Current%20Tech%20Stack&borderRadius=8&showBorder=false&lineCount=1&theme=github_dark&hideBg=true&line1=Vue.js,Vue,0cbb20;tailwindcss,Tailwind,2db6c8;nuxtdotjs,Nuxt,0cbb2f;nodedotjs,NODE%20JS,10701b;)
 
+<!--START_SECTION:SHOW_TOTAL_CODE_TIME-->
+<!--END_SECTION:waka-->
+
 <!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mrdrews-hub&langs_count=8&show_icons=true&theme=radical&hide=html,php,scss)](https://www.github.com/mrdrews-hub/mrdrews-hub) -->
 [![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=mrdrews)](https://github.com/anuraghazra/github-readme-stats)
 <!---
