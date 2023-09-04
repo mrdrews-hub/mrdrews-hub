@@ -1,4 +1,5 @@
-<h1 align="left">Hi 👋! My name is Andre, and I'm a Front End Developer From <img src="https://github.githubassets.com/images/icons/emoji/unicode/1f1ee-1f1e9.png?v8" height="35" alt="Indonesia" /></h1>
+
+<h1 align="left">Hi ! <img src="https://gifdb.com/images/high/cute-wave-emoji-hand-59s88kk0zj3xho40.gif" height="30" alt="wave" />, My name is Andre and I'm a Front End Developer From <img src="https://github.githubassets.com/images/icons/emoji/unicode/1f1ee-1f1e9.png?v8" height="35" alt="Indonesia" /></h1>
 
 [![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=mrdrews&layout=compact&langs_count=10)](https://github.com/anuraghazra/github-readme-stats)
 ###
