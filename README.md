@@ -38,13 +38,13 @@
 </div>
 
 ###
-
 <br clear="both">
 
 <img src="https://raw.githubusercontent.com/mrdrews-hub/mrdrews-hub/output/snake.svg" alt="Snake animation" />
 
-###
+<img align="right" height="150" src="https://miro.medium.com/v2/resize:fit:720/1*nWQ_U5NKEfNeGCTfh_2-Mw.gif" />
 
-<div align="center">
-  <img height="150" src="https://miro.medium.com/v2/resize:fit:720/1*nWQ_U5NKEfNeGCTfh_2-Mw.gif"  />
+<div align="left">
+  <img height="150" src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" alt="Snake animation" />
 </div>
+
