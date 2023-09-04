@@ -23,15 +23,15 @@
 ###
 <h3>Get In Touch:</h3>
 <div align="left">
-  <a href="https://instagram.com/mr-drews" target="_blank">
+  <a href="https://instagram.com/mr_drews?utm_source=qr&igshid=MzNlNGNkZWQ4Mg==" target="_blank" rel="noopener noreferrer">
     <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="instagram logo"  />
   </a>
   <img width="10" />
-  <a href="https://discordapp.com/users/108888888888888888" target="_blank">
+  <a href="https://discordapp.com/users/108888888888888888" target="_blank" rel="noopener noreferrer">
     <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="discord logo"  />
   </a>
   <img width="10" />
-  <a href="https://www.linkedin.com/in/andre-s-589aa3141/" target="_blank">
+  <a href="https://www.linkedin.com/in/andre-s-589aa3141/" target="_blank" rel="noopener noreferrer">
     <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
   </a>
 </div>
