@@ -4,7 +4,7 @@
 [![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=mrdrews&layout=compact&langs_count=10)](https://github.com/anuraghazra/github-readme-stats)
 ###
 
-<h3>Currently Worked With:</h3>
+<h3>Tech Stack:</h3>
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="45" alt="javascript logo"  />
   <img width="15" />
