@@ -1,8 +1,12 @@
 
 <h1 align="left">Hi ! <img src="https://gifdb.com/images/high/cute-wave-emoji-hand-59s88kk0zj3xho40.gif" height="30" alt="wave" />, My name is Andre and I'm a Front End Developer From <img src="https://github.githubassets.com/images/icons/emoji/unicode/1f1ee-1f1e9.png?v8" height="35" alt="Indonesia" /></h1>
 
-[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=mrdrews&layout=compact&langs_count=10)](https://github.com/anuraghazra/github-readme-stats)
-###
+<p align="center">
+  <img
+    src="https://github-readme-stats-steel-eight-12.vercel.app/api/wakatime?username=mrdrews&layout=compact&langs_count=10"
+    width="100%"
+  />
+</p>
 
 <h3>Tech Stack:</h3>
 <div align="left">
@@ -12,13 +16,17 @@
   <img width="20" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="45" alt="react logo"  />
   <img width="20" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" height="45" alt="nextjs logo" />
+  <img width="20" />
   <img src="https://cdn.simpleicons.org/tailwindcss/06B6D4" height="45" alt="tailwindcss logo"  />
   <img width="20" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original.svg" height="45" alt="vuejs logo"  />
   <img width="20" />
-  <img src="https://cdn.simpleicons.org/nuxtdotjs/00DC82" height="45" alt="nuxtjs logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nuxtjs/nuxtjs-original.svg" height="45" alt="nuxtjs logo" />
   <img width="20" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="45" alt="nodejs logo"  />
+  <img width="20" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nestjs/nestjs-original.svg" height="45" alt="nestjs logo" />
 </div>
 
 ###
@@ -42,7 +50,10 @@
 
 <img src="https://raw.githubusercontent.com/mrdrews-hub/mrdrews-hub/output/snake.svg" alt="Snake animation" />
 
-<div align="center">
+<!-- <div align="center">
   <img align="center" height="150" src="https://miro.medium.com/v2/resize:fit:720/1*nWQ_U5NKEfNeGCTfh_2-Mw.gif" />
-</div>
+</div> -->
 
+###
+
+[![Spotify](https://novatorem-beta-sable.vercel.app/api/orchestrator?background_type=blur_dark)](https://open.spotify.com/user/316htufvhjclg345vsjogvlvg4de)
